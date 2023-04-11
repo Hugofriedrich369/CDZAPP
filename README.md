@@ -1,6 +1,6 @@
 # ♑ | CDZAPP
 
-CDZAPP é um projeto avaliativo desenvolvivo durante um periódo de tempo determinado para qualificar nossas habilidades e aprimoramentos com o Android Studio e suas aplicações. Baseado no desenho Cavaleiro dos Zodiacos o usuario 
+CDZAPP é um projeto avaliativo desenvolvivo durante um período de tempo determinado para qualificar nossas habilidades e aprimoramentos com o Android Studio e suas aplicações. Baseado no desenho Cavaleiro dos Zodiacos o usuario 
 
 ## ⚙️ | Funcionamento
 
